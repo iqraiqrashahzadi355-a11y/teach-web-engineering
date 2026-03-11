@@ -131,7 +131,8 @@ You will observe:
 Add your assignment screenshot here:
 
 ```
-![Assignment Preview](./assignment-02.png)
+![Assignment Preview](https://github.com/iqraiqrashahzadi355-a11y/teach-web-engineering/blob/7f10138803687c63bf12b4f5e68b496be603672e/day-05/submissions/iqraiqrashahzadi355-a11y/assigment%2005.png)
+
 ```
 
 ---
