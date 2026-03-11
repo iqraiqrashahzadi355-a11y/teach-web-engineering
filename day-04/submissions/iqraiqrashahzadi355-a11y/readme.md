@@ -104,7 +104,9 @@ Span 3          Span 3          Span 3          Span 3
 
 ---
 
+## Preview
 
+![Assignment Preview](https://github.com/iqraiqrashahzadi355-a11y/teach-web-engineering/blob/df029eebbb1a755614f30a2bc55b1f6550715f99/day-04/submissions/iqraiqrashahzadi355-a11y/assingment%2004.png)
 
 ---
 
