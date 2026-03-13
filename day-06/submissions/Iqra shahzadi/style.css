@@ -1,1 +1,42 @@
-
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.card,
+.cards{
+  border:1px solid black;
+}
+.card--red{
+  border:1px solid red;
+}
+.card--green{
+  border:1px solid green;
+}
+.card--blue{
+  border:1px solid blue;
+}
+.card{
+  width:300px;
+  padding:1em;
+  display:inline-block;
+  vertical-align:top;
+}
+.cards{
+  padding:1em;
+}
+.card__title,
+.card__description{
+  padding:0.25em 1em;
+}
+.card__icon {
+  width: 48px;
+  height: 48px;
+  display: inline-block;
+}
+.cards--last{
+  margin-top:1rem;
+}
+.card__content:first-child {
+  width: calc(100% - 60px);
+}
